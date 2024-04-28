@@ -1,2 +1,2 @@
-# guidelines
-Simple repo for guidelines on github commits
+# Guidelines
+Simple repo for guidelines on github commits. ES/EN
