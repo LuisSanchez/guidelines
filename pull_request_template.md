@@ -29,5 +29,5 @@
 // will this pr add tech debt to be handle in the future? (for example, tech debt was added due to a demo with a client)
 
 ## Adherence to the git guidelines (mandatory)
-- [x] This change adheres to the [Git Company Guidelines](https://github.com/LuisSanchez/guidelines/).
+- [x] This change adheres to the [Git Company Guidelines](https://github.com/LuisSanchez/guidelines/blob/main/comments_explanation_en.md).
 - If not, justify.
